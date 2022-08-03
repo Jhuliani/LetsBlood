@@ -6,7 +6,7 @@
 ## Modelagem do projeto</br>
 ### Modelo Conceitual</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_conceitual.png"/>
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_conceitual.jpg"/>
 </p>
 
 ### Modelo Lógico</br>
