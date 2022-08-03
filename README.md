@@ -1,11 +1,20 @@
-# LetsBlood
-Banco de dados de doações de sangue | Projeto Final | Módulo Banco de Dados | MSSQL
+# LetsBlood</br>
+<p align="center">
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/logo.png"/>
+</p>
 
-**Modelo Conceitual**</br>
-![alt text](https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_conceitual.png)
+## Modelagem do projeto</br>
+### Modelo Conceitual</br>
+<p align="center">
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_conceitual.png"/>
+</p>
 
-**Modelo Lógico**</br>
-![alt text](https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_logica.png)
+### Modelo Lógico</br>
+<p align="center">
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_logica.png"/>
+</p>
 
-**Modelo Físico**</br>
-![alt text](https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_fisica.png)
+### Modelo Físico</br>
+<p align="center">
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_fisica.png"/>
+</p>
