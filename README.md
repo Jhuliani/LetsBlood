@@ -20,15 +20,15 @@ Buscou-se utilizar os seguintes conceitos vistos em aula:
 ## Modelagem do projeto</br>
 ### Modelo Conceitual</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Doa%C3%A7%C3%A3o%20de%20sangue-Conceitual%20(1).png"/>
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Doa%C3%A7%C3%A3o%20de%20sangue-Conceitual.png"/>
 </p>
 
 ### Modelo Lógico</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_logica.png"/>
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Doa%C3%A7%C3%A3o%20de%20sangue-L%C3%B3gico.png"/>
 </p>
 
 ### Modelo Físico</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_fisica.png"/>
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Doa%C3%A7%C3%A3o%20de%20sangue-F%C3%ADsico.png"/>
 </p>
