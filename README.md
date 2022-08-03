@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/logo.png"/>
 </p>
+O Let's Blood é um banco de dados escrito em MSSQL que tem por objjetivo cadastrar doações de sangue e suas respectivas informações. Este banco é composto pelas tabelas Médico, Doador, Bolsa de Sangue, Tipo sanguineo e Hospital.
 
 ## Modelagem do projeto</br>
 ### Modelo Conceitual</br>
