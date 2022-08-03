@@ -21,7 +21,6 @@
 
 ## Escopo</br>
 
-Projeto final da disciplina Banco de Dados da Turma Top Coders - Safra. </p>
 O Sistema Let's Blood tem como objetivo o cadastramento de doações de bolsas de sangue e suas respectivas informações.
 
 Buscou-se utilizar os seguintes conceitos vistos em aula:
