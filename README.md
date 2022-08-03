@@ -20,7 +20,7 @@ Buscou-se utilizar os seguintes conceitos vistos em aula:
 ## Modelagem do projeto</br>
 ### Modelo Conceitual</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Modelagem_conceitual.jpg"/>
+  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/Doa%C3%A7%C3%A3o%20de%20sangue-Conceitual%20(1).png"/>
 </p>
 
 ### Modelo Lógico</br>
