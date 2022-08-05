@@ -16,7 +16,8 @@ Buscou-se utilizar os seguintes conceitos vistos em aula:
 - Functions
 - Funções Agregadas
 
-
+Para que o Programa funcione baixe e execute na ordem abaixo:
+Primeiro o arquivo CRUD_LetsBlood.sql <CRUD_LetsBlood.sql>
 
 ## Modelagem do projeto</br>
 ### Modelo Conceitual</br>
