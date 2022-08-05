@@ -1,6 +1,6 @@
 # Let's Blood</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/imagens/LOGO.png"/>
+  <img src="imagens/LOGO.png"/>
 </p>
 O Let's Blood é um banco de dados escrito em MSSQL que tem por objetivo cadastrar doações de sangue e suas respectivas informações. Este banco é composto pelas tabelas Médico, Doador, Bolsa de Sangue, Tipo sanguineo e Hospital.</br>
 
@@ -29,15 +29,15 @@ Para que o Programa funcione, baixe e execute na ordem abaixo:</br>
 
 ### Modelo Conceitual</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/imagens/Doa%C3%A7%C3%A3o%20de%20sangue-Conceitual.png"/>
+  <img src="imagens/Doação de sangue-Conceitual.png"/>
 </p>
 
 ### Modelo Lógico</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/imagens/Doa%C3%A7%C3%A3o%20de%20sangue-L%C3%B3gico.png"/>
+  <img src="imagens/Doação de sangue-Lógico.png"/>
 </p>
 
 ### Modelo Físico</br>
 <p align="center">
-  <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/imagens/Doa%C3%A7%C3%A3o%20de%20sangue-F%C3%ADsico.png"/>
+  <img src="imagens/Doação de sangue-Físico.png"/>
 </p>
