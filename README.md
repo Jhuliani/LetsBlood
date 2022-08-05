@@ -5,15 +5,16 @@
 O Let's Blood é um banco de dados escrito em MSSQL que tem por objetivo cadastrar doações de sangue e suas respectivas informações. Este banco é composto pelas tabelas Médico, Doador, Bolsa de Sangue, Tipo sanguineo e Hospital.</br>
 
 Buscou-se utilizar os seguintes conceitos vistos em aula:
-- Querys para Pesquisas
+- Selects
+- Add – Alter
+- Update
+- Deletes – Drop
+- Querys para Pesquisas (JOINS)
 - Views
 - Triggers
 - Procedures
+- Functions
 - Funções Agregadas
-- Deletes – Drop
-- Add
-- Alter
-- Update
 
 
 
