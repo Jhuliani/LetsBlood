@@ -16,9 +16,11 @@ Buscou-se utilizar os seguintes conceitos vistos em aula:
 - Functions
 - Funções Agregadas
 
-Para que o Programa funcione baixe e execute na ordem abaixo:
-<a href=“https://github.com/MateusASF/LetsBlood/blob/main/CRUD_LetsBlood.sql“>Primeiro o arquivo CRUD_LetsBlood.sql</a>
-
+## Executando o projeto</br>
+Para que o Programa funcione baixe e execute na ordem abaixo:</br>
+1 - Primeiro o arquivo: [CRUD_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/CRUD_LetsBlood.sql)</br>
+2 - Depois o arquivo: [INSERTS_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/INSERTS_LetsBlood.sql)</br>
+3 - Por ultimo execute os comandos desejados do arquivo: [COMANDOS_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/COMANDOS_LetsBlood.sql)</br>
 
 ## Modelagem do projeto</br>
 ### Modelo Conceitual</br>
