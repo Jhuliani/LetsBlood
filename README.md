@@ -22,7 +22,11 @@ Para que o Programa funcione baixe e execute na ordem abaixo:</br>
 2 - Depois o arquivo: [INSERTS_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/INSERTS_LetsBlood.sql)</br>
 3 - Por ultimo execute os comandos desejados do arquivo: [COMANDOS_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/COMANDOS_LetsBlood.sql)</br>
 
-## Modelagem do projeto</br>
+### Modelagem do projeto</br>
+
+### Slides da Apresentação</br>
+[Link do Aqrquivo .pptx](https://github.com/MateusASF/LetsBlood/blob/main/ApresetacaoLetsBlood.pptx)
+
 ### Modelo Conceitual</br>
 <p align="center">
   <img src="https://github.com/sathyagimenes/LetsBlood/blob/main/imagens/Doa%C3%A7%C3%A3o%20de%20sangue-Conceitual.png"/>
