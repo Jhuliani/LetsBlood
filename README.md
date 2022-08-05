@@ -18,12 +18,12 @@ Buscou-se utilizar os seguintes conceitos vistos em aula:
 
 ## Executando o projeto</br>
 Para que o Programa funcione, baixe e execute na ordem abaixo:</br>
-1 - Primeiro o arquivo: [CRUD_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/CRUD_LetsBlood.sql)</br>
-2 - Depois o arquivo: [INSERTS_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/INSERTS_LetsBlood.sql)</br>
-3 - Por ultimo execute os comandos desejados do arquivo: [COMANDOS_LetsBlood.sql](https://github.com/MateusASF/LetsBlood/blob/main/COMANDOS_LetsBlood.sql)</br>
+1 - Primeiro o arquivo: [CRUD_LetsBlood.sql](CRUD_LetsBlood.sql)</br>
+2 - Depois o arquivo: [INSERTS_LetsBlood.sql](INSERTS_LetsBlood.sql)</br>
+3 - Por ultimo execute os comandos desejados do arquivo: [COMANDOS_LetsBlood.sql](COMANDOS_LetsBlood.sql)</br>
 
 ## Slides da Apresentação</br>
-[Link do Aqrquivo .pptx](https://github.com/MateusASF/LetsBlood/blob/main/ApresetacaoLetsBlood.pptx)</br>
+[Link do Arquivo .pptx](ApresetacaoLetsBlood.pptx)</br>
 
 ## Modelagem do projeto</br>
 
